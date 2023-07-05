@@ -22,4 +22,4 @@ This is my personal portfolio website, where I have highlighted some of my key s
 </div>
 
 ---
-*© 2023 Four Alpha*
+*© 2023 Anthony Zhang*
