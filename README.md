@@ -20,5 +20,6 @@ This is my personal portfolio website, where I have highlighted some of my key s
   <img src ="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)DF1E"/>
    <img src ="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white"/>
 </div>
+
 ---
 *© 2023 Four Alpha*
