@@ -1,4 +1,4 @@
-# 👲🏼 Personal Website | https://www.anthonyzhang.dev
+# 👲🏼 Personal Website | www.anthonyzhang.dev
 
 ## Background
 
