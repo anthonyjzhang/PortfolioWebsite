@@ -6,7 +6,7 @@ This is my personal portfolio website, where I have highlighted some of my key s
 
 ## Pictures
 <div align="center">
-  <img src="images/home.png" width="666" height="383">
+  <img src="public/homepage.png" width="666" height="383">
 </div>
 <p align="center">
   Home Page
