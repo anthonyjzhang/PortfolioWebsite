@@ -60,29 +60,29 @@ const About = () => {
           <div className="grid grid-cols-2 sm:grid-cols-3 gap-y-3 gap-x-6 w-full max-w-[1000px] place-items-center">
             <Fade damping={0.1} cascade direction="up">
               <img
-                className="object-contain h-[46px]"
+                className="object-contain h-[53px]"
                 src="/work1.png"
                 alt=""
               />
               <img
                 src="/work2.png"
                 alt=""
-                className="object-contain h-[46px]"
+                className="object-contain h-[53px]"
               />
               <img
                 src="/work3.png"
                 alt=""
-                className="object-contain sm:mt-0 mt-6 h-[100px]"
+                className="object-contain sm:mt-0 mt-6 h-[90px]"
               />
               <img
                 src="/work4.png"
                 alt=""
-                className="object-contain h-[65px] sm:mt-0 mt-6"
+                className="object-contain h-[70px] sm:mt-0 mt-6"
               />
               <img
                 src="/work5.png"
                 alt=""
-                className="object-contain sm:-mt-2 h-[95px]"
+                className="object-contain sm:-mt-2 h-[86px]"
               />
               <img
                 src="/work6.png"
