@@ -87,7 +87,7 @@ const About = () => {
               <img
                 src="/work6.png"
                 alt=""
-                className="object-contain sm:mt-5 h-[75px]"
+                className="object-contain sm:mt-5 h-[55px]"
               />
             </Fade>
           </div>
