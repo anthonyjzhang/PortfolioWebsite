@@ -12,7 +12,7 @@ const About = () => {
             <h2 className="text-white -mb-2 leading-[1] text-[32px] sm:text-[36px] font-poppins font-semibold">
               Hi, I’m Anthony <br />
               <span className="text-[#778DA9] leading-[1] inline-block relative -top-3 italic text-sm">
-                Software Developer, Founder, Engineer
+                Founder, Developer, Engineer
               </span>
             </h2>
             <p className="text-white text-base sm:text-[22px]">
@@ -41,7 +41,7 @@ const About = () => {
             <p className="text-white text-base sm:text-[22px]">
               I’m always looking for opportunities to collaborate with
               companies, researchers, or like-minded peers.{" "}
-              <span className="text-secondary font-bold">Let’s innovate. </span>
+              <span className="text-secondary font-bold">Let’s innovate </span>.
             </p>
           </div>
           <div className="relative isolate sm:pr-5 sm:min-w-[480px]">

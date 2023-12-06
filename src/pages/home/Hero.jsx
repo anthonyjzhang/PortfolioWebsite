@@ -13,10 +13,9 @@ const Hero = () => {
         <span className="text-base sm:text-xl md:text-2xl font-semibold  text-white font-poppins">
           <Typewriter
             words={[
-              `Computer Science, Mechanical Engineering, & Mathematics at Duke University`,
+              `Computer Science, Finance, Mechanical Engineering, & Mathematics at Duke University`,
               "lived in a tent for a month to watch the Duke vs. UNC game",
-              "is recruiting for Summer 2024 internship opportunities",
-              "Time Magazine's 2006 Person of the Year",
+              "is interested in work opportunities",
               "Co-Founder and CEO of Four Alpha",
               "can't decide on a major",
             ]}
