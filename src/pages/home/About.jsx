@@ -41,7 +41,7 @@ const About = () => {
             <p className="text-white text-base sm:text-[22px]">
               I’m always looking for opportunities to collaborate with
               companies, researchers, or like-minded peers.{" "}
-              <span className="text-secondary font-bold">Let’s innovate </span>.
+              <span className="text-secondary font-bold">Let’s innovate</span>.
             </p>
           </div>
           <div className="relative isolate sm:pr-5 sm:min-w-[480px]">
