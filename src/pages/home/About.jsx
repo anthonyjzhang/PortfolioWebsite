@@ -82,7 +82,7 @@ const About = () => {
               <img
                 src="/work5.png"
                 alt=""
-                className="object-contain sm:-mt-4 h-[50px]"
+                className="object-contain sm:-mt-7 h-[50px]"
               />
               <img
                 src="/work6.png"

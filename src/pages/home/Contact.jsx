@@ -13,7 +13,7 @@ const Contact = () => {
           </span>
         </h2>
         <p className="text-white text-lg text-center font-medium">
-          I am currently looking for roles in finance, software engineering and strategy
+          I am currently looking for roles in finance, software engineering, and strategy
           consulting. <br /> However, please feel free to reach out for any
           reason - I’d love to chat.
         </p>
