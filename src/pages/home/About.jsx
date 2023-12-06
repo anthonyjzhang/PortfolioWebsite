@@ -77,7 +77,7 @@ const About = () => {
               <img
                 src="/work4.png"
                 alt=""
-                className="object-contain h-[70px] sm:mt-7 mt-6"
+                className="object-contain h-[70px] sm:mt-0 mt-6"
               />
               <img
                 src="/work5.png"
@@ -87,7 +87,7 @@ const About = () => {
               <img
                 src="/work6.png"
                 alt=""
-                className="object-contain sm:mt-6 h-[55px]"
+                className="object-contain sm:mt-4 h-[55px]"
               />
             </Fade>
           </div>
