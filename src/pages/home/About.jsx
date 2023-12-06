@@ -18,8 +18,7 @@ const About = () => {
             <p className="text-white text-base sm:text-[22px]">
               I’m a student at{" "}
               <span className="text-secondary font-bold">Duke University</span>{" "}
-              studying Computer Science, Mechanical Engineering, and
-              Mathematics. Above all, I hope to make a{" "}
+              studying Computer Science, Finance, Mathematics, and Mechanical Engineering. Above all, I hope to make a{" "}
               <span className="text-secondary font-bold">tangible impact</span>{" "}
               through my work.{" "}
             </p>
